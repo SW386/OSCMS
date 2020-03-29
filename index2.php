@@ -109,11 +109,12 @@
         <div class="row">
           <div class="col-xl-4 col-lg-5" data-aos="fade-up">
             <div class="content">
-              <h3>Goals of OSCMS</h3>
+              <h3>Goals of OSCMS and this website</h3>
               <p>
-                Coronavirus, COVID19, is officially a pandemic which means it affects everyone around the world.
-                At the current rate, medical supplies- ventilators, masks, and PPEs- will fail to meet demand.
-                This group and website aims to evaluate, design, and source fabrication of emergency medicine supplies around the world.
+                COVID19 is currently spreading exponentially throughout the world.
+                If infections proceed at their current pace across the globe, supplies like ventilators,
+                respirators, and PPEs will fail to meet demand. This group is being formed to evaluate, design, validate, and source
+                the fabrication of open source emergency medical supplies around the world.
               </p>
               <div class="text-center">
                 <a href="https://www.facebook.com/groups/670932227050506/" class="more-btn">Learn More <i class="bx bx-chevron-right"></i></a>
@@ -124,24 +125,22 @@
             <div class="icon-boxes d-flex flex-column justify-content-center">
               <div class="row">
                 <div class="col-xl-4 d-flex align-items-stretch" data-aos="fade-up" data-aos-delay="100">
-
                   <div class="icon-box mt-4 mt-xl-0">
-                    <img src ="assets/img/icon2.png " class="icon" style="width:50px;height:50px">
-
+                    <i class="bx bx-receipt"></i>
                     <h4>Goal 1</h4>
                     <p>Consolidate designs that can immediately be produced </p>
                   </div>
                 </div>
                 <div class="col-xl-4 d-flex align-items-stretch" data-aos="fade-up" data-aos-delay="200">
                   <div class="icon-box mt-4 mt-xl-0">
-                  <img src ="assets/img/icon1.png " class="icon", style="width:50px;height:50px">
+                    <i class="bx bx-cube-alt"></i>
                     <h4>Goal 2</h4>
                     <p>Relieve the shortage in medical supplies caused by COVID-19</p>
                   </div>
                 </div>
                 <div class="col-xl-4 d-flex align-items-stretch" data-aos="fade-up" data-aos-delay="300">
                   <div class="icon-box mt-4 mt-xl-0">
-                    <img src ="assets/img/icon3.png " class="icon", style="width:60px;height:50px">
+                    <i class="bx bx-images"></i>
                     <h4>Goal 3</h4>
                     <p>Connect local hospitals with volunteers and engineers</p>
                   </div>
@@ -163,45 +162,46 @@
       <div class="container">
 
         <div class="section-title" data-aos="fade-up">
-          <h2> Reusing N95 Respirators </h2>
-          <p> N95 respirators are a form of PPE that are a first line of defense against COVID19, many hospitals struggling to meet the needs of their own workers and patients. Though meant to last months, they begin to dwindle to only days or weeks. This page offers the best collaborative efforts to extend the useful supply of N95 respirators.</p>
+          <h2>Services</h2>
+          <p>Magnam dolores commodi suscipit. Necessitatibus eius consequatur ex aliquid fuga eum quidem. Sit sint consectetur velit. Quisquam quos quisquam cupiditate. Et nemo qui impedit suscipit alias ea. Quia fugiat sit in iste officiis commodi quidem hic quas.</p>
         </div>
 
         <div class="row">
           <div class="col-lg-4 col-md-6" data-aos="fade-up">
             <div class="icon-box">
               <div class="icon"><i class="icofont-computer"></i></div>
-              <h4 class="title"><a href="">REUSE</a></h4>
-              <p class="description">With proper procedures, N95 masks can be reused. This also includes tips to use N95 masks frugally.</p>
+              <h4 class="title"><a href="">Lorem Ipsum</a></h4>
+              <p class="description">Voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi sint occaecati cupiditate non provident</p>
             </div>
           </div>
           <div class="col-lg-4 col-md-6" data-aos="fade-up" data-aos-delay="100">
             <div class="icon-box">
-              <div class="icon"><img src ="assets/img/R_Icon1.png " style="width:50px;height:50px"></i></div>
-              <h4 class="title"><a href="">Microwave Decontamination </a></h4>
-              <p class="description">Using Microwaves to sterilize N95 masks is a facile and effective method to salvage N95 masks. </p>
+              <div class="icon"><i class="icofont-chart-bar-graph"></i></div>
+              <h4 class="title"><a href="">Dolor Sitema</a></h4>
+              <p class="description">Minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat tarad limino ata</p>
             </div>
           </div>
           <div class="col-lg-4 col-md-6" data-aos="fade-up" data-aos-delay="200">
             <div class="icon-box">
               <div class="icon"><i class="icofont-earth"></i></div>
-              <h4 class="title"><a href="">Oven Decontamination </a></h4>
-              <p class="description">An oven is kitchenware most people have access to, making it a relatively easy and fast way to decontaminate masks. </p>
+              <h4 class="title"><a href="">Sed ut perspiciatis</a></h4>
+              <p class="description">Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur</p>
             </div>
           </div>
-
+        </div>
+        <div class="row" >
           <div class="col-lg-4 col-md-6" data-aos="fade-up" data-aos-delay="300">
             <div class="icon-box2">
               <div class="icon"><i class="icofont-image"></i></div>
-              <h4 class="title"><a href="">UVGI Decontamination </a></h4>
-              <p class="description">UVGI stands for ultraviolet germicidal irradiation and is another method to ensure that masks are safe to reuse.  </p>
+              <h4 class="title"><a href="">Magni Dolores</a></h4>
+              <p class="description">Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum</p>
             </div>
           </div>
           <div class="col-lg-4 col-md-6" data-aos="fade-up" data-aos-delay="400">
             <div class="icon-box2">
               <div class="icon"><i class="icofont-settings"></i></div>
-              <h4 class="title"><a href="">Chemical Decontamination </a></h4>
-              <p class="description">Studies conducted by Duke University demonstrates how Hydrogen Peroxide vapor can be used to address the personal protective equipment shortages. </p>
+              <h4 class="title"><a href="">Nemo Enim</a></h4>
+              <p class="description">At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque</p>
             </div>
           </div>
         </div>
@@ -520,7 +520,7 @@
   <section id="map_section"class = "map" >
     <div class="container">
       <div class="section-title">
-        <h2 data-aos="fade-up">Service Map</h2>
+        <h2 data-aos="fade-up">Contact</h2>
         <p data-aos="fade-up">Magnam dolores commodi suscipit. Necessitatibus eius consequatur ex aliquid fuga eum quidem. Sit sint consectetur velit. Quisquam quos quisquam cupiditate. Et nemo qui impedit suscipit alias ea. Quia fugiat sit in iste officiis commodi quidem hic quas.</p>
       </div>
       <div id="map"></div>
@@ -574,7 +574,7 @@
                 <div class="validate"></div>
               </div>
             </div>
-         <div class="text-center"><button type="submit" name="submit" value="Send" >Join</button></div>
+         <div class="text-center"><input type="submit" name="submit" value="Send" ></div>
           </form>
         </div>
 
@@ -583,7 +583,141 @@
     </div>
   </section><!-- End Contact Section -->
 
+  <?php
 
+  if(isset($_POST['submit'])){
+
+      $data_missing = array();
+   ;
+      if(empty($_POST['first_name'])){
+
+          // Adds name to array
+          $data_missing[] = 'First Name';
+
+      } else {
+
+          // Trim white space from the name and store the name
+          $f_name = trim($_POST['first_name']);
+
+      }
+
+      if(empty($_POST['last_name'])){
+
+          // Adds name to array
+          $data_missing[] = 'Last Name';
+
+      } else{
+
+          // Trim white space from the name and store the name
+          $l_name = trim($_POST['last_name']);
+
+      }
+
+      if(empty($_POST['email'])){
+
+          // Adds name to array
+          $data_missing[] = 'Email';
+
+      } else {
+
+          // Trim white space from the name and store the name
+          $email = trim($_POST['email']);
+
+      }
+
+
+      if(empty($_POST['city'])){
+
+          // Adds name to array
+          $data_missing[] = 'City';
+
+      } else {
+
+          // Trim white space from the name and store the name
+          $city = trim($_POST['city']);
+
+      }
+
+      if(empty($_POST['state'])){
+
+          // Adds name to array
+          $data_missing[] = 'State';
+
+      } else {
+
+          // Trim white space from the name and store the name
+          $state = trim($_POST['state']);
+
+      }
+
+      if(empty($_POST['zip'])){
+
+          // Adds name to array
+          $data_missing[] = 'Zip Code';
+
+      } else {
+
+          // Trim white space from the name and store the name
+          $zip = trim($_POST['zip']);
+
+      }
+
+
+
+
+      if(empty($data_missing)){
+
+          require_once('mysqli_connect.php');
+
+          $query = "INSERT INTO user (first_name, last_name, email,
+           city, state, zip) VALUES (?, ?, ?,
+          ?, ?, ?)";
+
+          $stmt = mysqli_prepare($dbc, $query);
+
+
+          mysqli_stmt_bind_param($stmt, "sssssi", $f_name,
+                                 $l_name, $email, $city,
+                                 $state, $zip);
+
+          mysqli_stmt_execute($stmt);
+
+          $affected_rows = mysqli_stmt_affected_rows($stmt);
+
+          if($affected_rows == 1){
+
+              echo 'User Entered';
+
+              mysqli_stmt_close($stmt);
+
+              mysqli_close($dbc);
+
+          } else {
+
+              echo 'Error Occurred<br />';
+              echo mysqli_error();
+
+              mysqli_stmt_close($stmt);
+
+              mysqli_close($dbc);
+
+          }
+
+      } else {
+
+          echo 'You need to enter the following data<br />';
+
+          foreach($data_missing as $missing){
+
+              echo "$missing<br />";
+
+          }
+
+      }
+
+  }
+
+  ?>
 
 
     <!-- ======= Contact Section ======= -->
@@ -592,7 +726,7 @@
 
         <div class="section-title">
           <h2 data-aos="fade-up">Contact</h2>
-          <p data-aos="fade-up">Contact us if you are an engineer, a medical professional, an innovator, or anyone who wants to help the community because everyone is affected by COVID19. Submit your interests and local health care centers so that we form cohesive local groups; don't splinter, don't silo. Your hospitals will need your help very soon, if they don't already.</p>
+          <p data-aos="fade-up">Magnam dolores commodi suscipit. Necessitatibus eius consequatur ex aliquid fuga eum quidem. Sit sint consectetur velit. Quisquam quos quisquam cupiditate. Et nemo qui impedit suscipit alias ea. Quia fugiat sit in iste officiis commodi quidem hic quas.</p>
         </div>
 
         <div class="row justify-content-center">
@@ -740,7 +874,7 @@
   <script src="assets/vendor/jquery/jquery.min.js"></script>
   <script src="assets/vendor/bootstrap/js/bootstrap.bundle.min.js"></script>
   <script src="assets/vendor/jquery.easing/jquery.easing.min.js"></script>
-  <script src="assets/vendor/php-email-form/validate.js"></script>
+  <!--<script src="assets/vendor/php-email-form/validate.js"></script>-->
   <script src="assets/vendor/jquery-sticky/jquery.sticky.js"></script>
   <script src="assets/vendor/venobox/venobox.min.js"></script>
   <script src="assets/vendor/owl.carousel/owl.carousel.min.js"></script>
