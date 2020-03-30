@@ -3,7 +3,7 @@
 require_once('mysqli_connect.php');
 
 // Create a query for the database
-$query = "SELECT first_name, last_name, email, City, state, zip FROM user";
+$query = "SELECT first_name, status, email, City, state, zip FROM user";
 
 // Get a response from the database by sending the connection
 // and the query
@@ -11,11 +11,11 @@ $response = @mysqli_query($dbc, $query);
 
 // If the query executed properly proceed
 if($response){
-
+  
 echo '<table align="left"
 cellspacing="5" cellpadding="8">
 <tr><td align="left"><b>First Name</b></td>
-<td align="left"><b>Last Name</b></td>
+<td align="left"><b>status</b></td>
 <td align="left"><b>Email</b></td>
 <td align="left"><b>City</b></td>
 <td align="left"><b>State</b></td>
@@ -28,7 +28,7 @@ while($row = mysqli_fetch_array($response)){
 
 echo '<tr><td align="left">' .
 $row['first_name'] . '</td><td align="left">' .
-$row['last_name'] . '</td><td align="left">' .
+$row['status'] . '</td><td align="left">' .
 $row['email'] . '</td><td align="left">' .
 $row['City'] . '</td><td align="left">' .
 $row['state'] . '</td><td align="left">' .
