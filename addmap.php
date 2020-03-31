@@ -1,9 +1,33 @@
+
+
+<script src="https://unpkg.com/axios/dist/axios.min.js"></script>
+<script>
+// Creating a cookie after the document is ready
+$(document).ready(function () {
+    createCookie("gfg", "GeeksforGeeks", "10");
+});
+
+// Function to create the cookie
+function createCookie(name, value, days) {
+    var expires;
+
+    if (days) {
+        var date = new Date();
+        date.setTime(date.getTime() + (days * 24 * 60 * 60 * 1000));
+        expires = "; expires=" + date.toGMTString();
+    }
+    else {
+        expires = "";
+    }
+
+    document.cookie = escape(name) + "=" +
+        escape(value) + expires + "; path=/";
+}
+
+</script>
 <html>
-
-
-
 <?php
-
+echo $_COOKIE["gfg"];
 if(isset($_POST['submit'])){
 
     $data_missing = array();
@@ -114,7 +138,7 @@ if(isset($_POST['submit'])){
         } else {
 
             $success = 'Email Already In System';
-          
+
 
             mysqli_stmt_close($stmt);
 
@@ -199,9 +223,8 @@ if(isset($_POST['submit'])){
         <ul>
           <li class="active"><a href="#header">Home</a></li>
 
-          <li><a href="#services">Services</a></li>
-          <li><a href="#values">Categories</a></li>
-          <li><a href="#portfolio">Designs</a></li>
+          <li><a href="#services">Hospitals</a></li>
+          <li><a href="#values">Manufacturers/Makers</a></li>
           <li><a href="#map">Connect</a></li>
           <li><a href="#contact">Contact</a></li>
 

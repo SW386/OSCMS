@@ -10,6 +10,7 @@
   <meta content="" name="descriptison">
   <meta content="" name="keywords">
 
+
   <!-- Favicons -->
   <link href="assets/img/favicon.png" rel="icon">
   <link href="assets/img/apple-touch-icon.png" rel="apple-touch-icon">
@@ -22,6 +23,9 @@
   <script src="https://unpkg.com/leaflet@1.6.0/dist/leaflet.js"
     integrity="sha512-gZwIG9x3wUXg2hdXF6+rVkLF/0Vi9U8D2Ntg4Ga5I5BZpVkVxlJWbSQtXPSiUTtC0TjtGOmxa1AJPuV0CPthew=="
     crossorigin=""></script>
+
+  <!-- axois map-->
+  <script src="https://unpkg.com/axios/dist/axios.min.js"></script>
 
   <!-- Google Fonts -->
   <link href="https://fonts.googleapis.com/css?family=Open+Sans:300,300i,400,400i,600,600i,700,700i|Raleway:300,300i,400,400i,500,500i,600,600i,700,700i|Poppins:300,300i,400,400i,500,500i,600,600i,700,700i" rel="stylesheet">
@@ -36,10 +40,6 @@
 
   <!-- Template Main CSS File -->
   <link href="assets/css/style.css" rel="stylesheet">
-
-  <!-- Axios Library and Getting an Address-->
-  <script src="https://unpkg.com/axios/dist/axios.min.js"></script>
-  <script src="getAddress.js"></script>
 
   <!-- =======================================================
   * Template Name: Flexor - v2.0.0
@@ -68,7 +68,7 @@
           <li class="active"><a href="index.html">Home</a></li>
 
           <li><a href="#services">Hospitals</a></li>
-          <li><a href="#values">Manufacturers</a></li>
+          <li><a href="#values">Manufacturers/Makers</a></li>
           <li><a href="#map">Connect</a></li>
           <li><a href="#contact">Contact</a></li>
 
@@ -207,7 +207,7 @@
         <div class="section-title" data-aos="fade-up">
           <h2>Open Designs</h2>
           <p>A collection of free and open source designs for a variety of medical equipment. Some desings require specialized
-            equipment such as 3D printers or laser cutters. Others can be fabricated from easily obtainable materials at low cost. 
+            equipment such as 3D printers or laser cutters. Others can be fabricated from easily obtainable materials at low cost.
             This collection has been curated to only include designs with finished prototypes. Some of these designs have been approved
             and are currently in use in hospitals.
           </p>
@@ -217,7 +217,7 @@
             <div class="card" style="background-image: url(assets/img/approved/10.jpg);">
               <div class="card-body">
                 <h5 class="card-title"><a href="approvedpage.html">PPE</a></h5>
-                <p class="card-text">Collection of PPEs, all of which have either been reviewed by medical professionals or are in hospital use</p>
+                <p class="card-text">Collection of PPEs or personal protective equipment, all of which have either been reviewed by medical professionals or are in hospital use. PPE is essential in limiting the transmission of COVID19 to medical professionals. </p>
                 <div class="read-more"><a href="maskpage.html"><i class="icofont-arrow-right"></i> Explore More</a></div>
               </div>
             </div>
@@ -226,8 +226,8 @@
             <div class="card" style="background-image: url(assets/img/3.jpg);">
               <div class="card-body">
                 <h5 class="card-title"><a href="Equipmentpage.html">Medical Equipment</a></h5>
-                <p class="card-text">Collection of Open Source Medical Equipment including emergency ventillators, droplet barriers, and uvc-sterilization chambers</p>
-                <div class="read-more"><a href="#"><i class="icofont-arrow-right"></i> Read More</a></div>
+                <p class="card-text">Collection of Open Source Medical Equipment including emergency ventillators, droplet barriers, and uvc-sterilization chambers all of which promote safe pulbic health measures.</p>
+                <div class="read-more"><a href="#"><i class="icofont-arrow-right"></i>Explore More</a></div>
               </div>
             </div>
 
@@ -236,8 +236,8 @@
             <div class="card" style="background-image: url(assets/img/1.jpg);">
               <div class="card-body">
                 <h5 class="card-title"><a href="Maskpage.html">Filtered Face Masks</a></h5>
-                <p class="card-text">Collection of Open Source Face Mask designs which contain filters</p>
-                <div class="read-more"><a href="#"><i class="icofont-arrow-right"></i> Read More</a></div>
+                <p class="card-text">Collection of Open Source Face Mask designs which contain filters. Face masks are one of the first supplies to dwindle as they are essential to everyone, which underlines the need for innovative strategies.</p>
+                <div class="read-more"><a href="#"><i class="icofont-arrow-right"></i> Explore More</a></div>
               </div>
             </div>
           </div>
@@ -245,8 +245,8 @@
             <div class="card" style="background-image: url(assets/img/faceshields11.jpg);">
               <div class="card-body">
                 <h5 class="card-title"><a href="Shieldpage.html">Face Shield</a></h5>
-                <p class="card-text">Collection of Open Source Face Shields, many of which have been reviewed and are in use in hospitals</p>
-                <div class="read-more"><a href="#"><i class="icofont-arrow-right"></i> Read More</a></div>
+                <p class="card-text">Collection of Open Source Face Shields. Face shields are often the first line of defense against pathogens, so strategies of maxinizing efficiency and reproducibility are always being developed.</p>
+                <div class="read-more"><a href="#"><i class="icofont-arrow-right"></i> Explore More</a></div>
               </div>
             </div>
           </div>
@@ -265,10 +265,41 @@
       <div id="map"></div>
 
       <script>
-      // initialize the map
-      var map = L.map('map').setView([40, -90], 1);
-      var layer = new L.TileLayer('http://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png');
-      map.addLayer(layer);
+
+      function getAddress(City, State,fn) {
+
+          const API = "https://maps.googleapis.com/maps/api/geocode/json?";
+          const Address = "+" + City + ",+" + State;
+          const Key = "AIzaSyAm4slMQkbU4s8YC_iuVkrsQm8dKJBcLKo";
+          axios.get(API, {
+              params: {
+                  address: Address,
+                  key: Key,
+              }
+          }).then(response => {
+              console.log(response);
+              var lat = response.data.results[0].geometry.location.lat;
+              var lng = response.data.results[0].geometry.location.lng;
+              var lat_long = [lat,lng];
+              console.log(lat_long);
+              fn(lat_long);
+
+          }).catch(err => {
+              console.log(err);
+          })
+      }
+      getAddress("Greensboro","NC", function(location){
+
+        var map = L.map('map').setView([40, -90], 1);
+        var layer = new L.TileLayer('http://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png');
+        var marker = L.marker(location).addTo(map);
+        map.addLayer(layer);
+      });
+
+
+
+    // initialize the map
+
       </script>
 
   </div>
@@ -319,13 +350,6 @@
 
             </div>
          <div class="text-center"><button type="submit" name="submit" value="Send" >Join</button></div>
-         <div id = "test">Test:</div>
-         <script>
-           var locationForm = getAddress("Houston","Texas");
-           const test = locationForm.toString();
-           document.getElementById("test").innerHTML = test;
-           
-         </script>
           </form>
         </div>
 
@@ -337,8 +361,7 @@
 
 
 
-    <!-- ======= Contact Section ======= -->
-    <section id="contact" class="contact">
+  <section id="contact" class="contact">
       <div class="container">
 
         <div class="section-title">
@@ -351,8 +374,8 @@
           <div class="col-xl-3 col-lg-4 mt-4" data-aos="fade-up">
             <div class="info-box">
               <i class="bx bx-map"></i>
-              <h3>Our Address</h3>
-              <p>A108 Adam Street, New York, NY 535022</p>
+              <h3>Join the Facebook Page</h3>
+              <p><a href="https://www.facebook.com/groups/opensourcecovid19medicalsupplies/">OpenSource COVID Medical Supplies</a></p>
             </div>
           </div>
 
@@ -360,7 +383,7 @@
             <div class="info-box">
               <i class="bx bx-envelope"></i>
               <h3>Email Us</h3>
-              <p>info@example.com<br>contact@example.com</p>
+              <p>mkf26@duke.edu<br>shufan.wen@duke.edu<br>sarah.l.lu@duke.edu</p>
             </div>
           </div>
           <div class="col-xl-3 col-lg-4 mt-4" data-aos="fade-up" data-aos-delay="200">
@@ -372,37 +395,7 @@
           </div>
         </div>
 
-        <div class="row justify-content-center" data-aos="fade-up" data-aos-delay="300">
-          <div class="col-xl-9 col-lg-12 mt-4">
-            <form action="forms/contact.php" method="post" role="form" class="php-email-form">
-              <div class="form-row">
-                <div class="col-md-6 form-group">
-                  <input type="text" name="name" class="form-control" id="name" placeholder="Your Name" data-rule="minlen:4" data-msg="Please enter at least 4 chars" />
-                  <div class="validate"></div>
-                </div>
-                <div class="col-md-6 form-group">
-                  <input type="email" class="form-control" name="email" id="email" placeholder="Your Email" data-rule="email" data-msg="Please enter a valid email" />
-                  <div class="validate"></div>
-                </div>
-              </div>
-              <div class="form-group">
-                <input type="text" class="form-control" name="subject" id="subject" placeholder="Subject" data-rule="minlen:4" data-msg="Please enter at least 8 chars of subject" />
-                <div class="validate"></div>
-              </div>
-              <div class="form-group">
-                <textarea class="form-control" name="message" rows="5" data-rule="required" data-msg="Please write something for us" placeholder="Message"></textarea>
-                <div class="validate"></div>
-              </div>
-              <div class="mb-3">
-                <div class="loading">Loading</div>
-                <div class="error-message"></div>
-                <div class="sent-message">Your message has been sent. Thank you!</div>
-              </div>
-              <div class="text-center"><button type="submit">Send Message</button></div>
-            </form>
-          </div>
 
-        </div>
 
       </div>
     </section><!-- End Contact Section -->
