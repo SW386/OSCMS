@@ -1,5 +1,9 @@
 //<script src="https://unpkg.com/axios/dist/axios.min.js"></script>
-import axios from "axios";
+var script = document.createElement('script');
+    script.type = 'text/javascript';
+
+    script.src = 'https://unpkg.com/axios/dist/axios.min.js';
+    document.body.appendChild(script);
 //const axios = require('axios');
 var mysql = require('mysql');
 
