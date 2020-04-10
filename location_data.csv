@@ -1,97 +1,142 @@
-Person,City,Provice,State,Website,lat,long
-Zachary Bailiey,Adelaide,South Australia,Australia,https://bit.ly/2xt2ul5,-34.9284989,138.6007456
-Dale,Melbourne,Victoria,Australia,https://www.facebook.com/groups/opensourcecovid19medicalsuppliesaustralia,-37.8136276,144.9630576
-David Kong,Perth,Western Australia,Australia,https://www.facebook.com/groups/OSCMSAustralia,-31.9505269,115.8604572
-Stephen Eaton,Bunbury,Western Australia,Australia,https://www.facebook.com/groups/2897671110314005/,-33.3209971,115.6383482
-Carlos,Brisbane,,Australia,https://www.facebook.com/groups/253290335707166/,-27.4697707,153.0251235
-Reduan Ahmed Tanim,Dhaka,Dhaka,Bangladesh,https://www.facebook.com/groups/575565746378027/?ref=bookmarks,23.810332,90.4125181
-Alannah MacLean,Thunder Bay,Northern Ontario,Canada,https://www.nosm.ca/our-community/nosm-student-council/nosmsc-covid-19-relief/,48.3808951,-89.2476823
-Angela Peebles,Niagara Falls,ON,Canada,https://www.facebook.com/groups/1165642207101377/,43.0895577,-79.0849436
-Yohan Decelles,Montreal,Quebec,Canada,https://www.facebook.com/groups/mtlcovid,45.5016889,-73.567256
-Landon Gardner,Toronto,,Canada,https://www.facebook.com/groups/643061006475805/,43.653226,-79.3831843
-Zane,Edmonton,,Canada,https://www.facebook.com/groups/702589887175935,53.5461245,-113.4938229
-Leigh Christie,Vancouver,,Canada,https://www.facebook.com/groups/643029166490469/,49.2827291,-123.1207375
-Joanne Probyn,Vancouver,,Canada,https://www.facebook.com/groups/OpenSourceCOVID19MedicalSuppliesVancouverCanada/?ref=share,49.2827291,-123.1207375
-Mauricio Ruiz,Bogota,Cundinamarca,COLOMBIA,https://www.facebook.com/groups/217134749371098/,4.7109886,-74.072092
-Marco Vinicio Soria,Quito,,EC,https://www.sortronic.com,-0.1806532,-78.4678382
-Ahmed Ebraheem,Giza,,Egypt,https://www.facebook.com/groups/701056440634311/,30.0130557,31.2088526
-Andresa,Munich,,Germany,https://www.facebook.com/groups/bavarianmakersvsvirus,48.1351253,11.5819805
-stella aggelaki,Chania,Crete,Greece,https://www.facebook.com/groups/260263501641528/,35.5138298,24.0180367
-Jaideep Aher,Pune,,India,https://www.facebook.com/groups/618383535679772/,18.5204303,73.8567437
-Kelsey,Bamako,,Mali,https://www.facebook.com/COVID-MALI-K%C3%A8n%C3%A8ya-108795004101113,12.6392316,-8.0028892
-Charlie Kelly,Pieta,Pieta,Malta,https://www.facebook.com/groups/848743115622714,35.8934116,14.4941679
-Jorge Vega,Atizipan,,Mexico,https://www.facebook.com/groups/572751163333580/,19.5679989,-99.2653128
-Marco Polo Tenorio Esparza,Saltillo,Coahuila,Mexico,https://www.facebook.com/groups/904816899977270,25.4383234,-100.973678
-Aland Yarden Escudero Ornelas,Pachuca,Hidalgo,Mexico,https://www.facebook.com/groups/261009291557679/,20.1010608,-98.7591311
-David,Guarda,Guarda,Portugal,https://www.facebook.com/groups/MovimentoMakerPortugal/,40.5308408,-7.2221421
-Sherman Chen,Singapore,,Singapore,http://www.facebook.com/updatedlater,1.352083,103.819836
-Elizabeth Wolmarans,Johannesburg,Gauteng,South Africa,https://www.facebook.com/pg/Open-Source-Covid19-Medical-Supplies-South-Africa-111072100540653/about,-26.2041028,28.0473051
-Peter,Cape Town,,South Africa,https://www.facebook.com/groups/1506916682821523/,-33.9248685,18.4240553
-Pablo Calleja Cayon,Renedo de Pielagos,Cantabria,Spain,https://www.facebook.com/groups/645916392868610/,43.3534526,-3.9500105
-Adrian Haword,Kandy,Central,Sri Lanka,https://www.facebook.com/groups/2557969661139503/,7.2905715,80.6337262
-Alice Anlind,Uppsala,,Sweden,https://www.facebook.com/groups/207894173813513/,59.8585638,17.6389267
-Khalil BOURGOU,Djerba ,Djerba,Tunisia,https://www.facebook.com/groups/OSCDMS/,33.8075978,10.8451467
-Waed,Ben arous,Tunis,Tunisia,https://www.facebook.com/groups/310642989942318,36.7435003,10.2319757
-Mohamed Chedli Ben Yaghlane,Tunis,,Tunisia,https://www.facebook.com/groups/497735587589305/,36.8064948,10.1815316
-Elizabeth Hyde ( Liz FH on fb),Birmingham,,UK,https://www.facebook.com/groups/1092378847793991/about/,52.486243,-1.890401
-Yuri Vlasyuk,Kyiv,Kyiv,Ukraine,https://www.facebook.com/MakerHub.org/,50.4501,30.5234
-Nestor Martinez,La Coronilla,,URUGUAY,https://docs.google.com/forms/u/0/d/e/1FAIpQLSdgYInS7ii_6JqNp3EtOosvtRlu74BUTlRLPz7fvcXq7NjtZA/formResponse,-33.889896,-53.5256956
-Moheeb Zara,Phoenix,AZ,USA,https://www.facebook.com/groups/1927730457352134/?ref=share,33.4483771,-112.0740373
-Noah Standridge,BOULDER CREEK,CA,USA,https://www.facebook.com/groups/203199657410175/,37.1260578,-122.1221869
-Shannon Lee,San Francisco,CA,USA,https://www.facebook.com/groups/1129956960692640/members/,37.7749295,-122.4194155
-Peter Mui,Berkeley,CA,USA,https://www.facebook.com/FixitClinic/,37.8715226,-122.273042
-Theo Sarran,Santa Cruz,CA,USA,https://www.facebook.com/groups/200512584578188/,36.9741171,-122.0307963
-Sam Neff,Oakland,CA,USA,https://www.facebook.com/groups/2540696382871789/,37.8043514,-122.2711639
-Ashley Chiu,Bay Area,CA,USA,https://www.facebook.com/groups/1388421828011071/,37.8271784,-122.2913078
-Cole Dunn,San Jose,CA,USA,https://www.facebook.com/groups/593479817911141/,37.3382082,-121.8863286
-Adriana Schaffer,San Diego,CA,USA,https://www.facebook.com/groups/204071867533109/213292363277726/?comment_id=213450329928596&notif_id=1585422315613097&notif_t=group_comment_reply,32.715738,-117.1610838
-Micah Silver,Los Angeles,CA,USA,https://www.facebook.com/groups/2619428255045479/?hc_location=ufi,34.0522342,-118.2436849
-Andrew Pipathsouk,Orange County,CA,USA,https://www.facebook.com/groups/214898566420716/,33.7174708,-117.8311428
-Shanan,Los Angeles,CA,Usa,https://www.lafilmmaskmakers.com/,34.0522342,-118.2436849
-Lisa Storc,Los Angeles,CA,USA,https://www.facebook.com/groups/622045148527252/,34.0522342,-118.2436849
-Sabrina Williamson,Sacramento,CA,USA,https://www.facebook.com/groups/518221618838835/,38.5815719,-121.4943996
-Carolyn Rodriguez,San Diego,CA,USA,https://m.facebook.com/groups/2257979497844254?group_view_referrer=profile_browser,32.715738,-117.1610838
-Omar Soubra,Denver,CO,USA,http://www.make4covid.co,39.7392358,-104.990251
-Dave Phrog,Steamboat Springs,CO,USA,https://www.facebook.com/groups/1309619542556377/,40.4849769,-106.8317158
-Warren S Cross,East Hampton,CT,USA,https://www.facebook.com/groups/2560587237528780/,40.9634335,-72.1848009
-J.R. Logan,New Haven,CT,USA,https://www.makehaven.org/covid19,41.308274,-72.9278835
-Matan Lieber-Kotz,Washington,DC,USA,https://www.facebook.com/groups/DC.COVID19/,47.7510741,-120.7401385
-Brooks Rampersad,Cocoa Beach,FL,USA,https://www.facebook.com/groups/opensourcecovid19medicalsuppliesbrevardcofl/,28.3200067,-80.6075513
-Ian Cole,Orlando,FL,USA,https://www.facebook.com/groups/246225126423066,28.5383355,-81.3792365
-Dan Becker,Hollywood,FL,USA,https://www.facebook.com/groups/249510606071584/,32.8686599,-96.6644814
-Kathryn Neel,Ormond Beach,FL,USA,https://www.facebook.com/groups/624029178440771/?ref=bookmarks,29.2858129,-81.0558894
-Tanju Bayramoglu,Marietta Atlanta,GA,USA,https://www.AtlantaBeatsCovid.org,33.952602,-84.5499327
-Ian Wong,Atlanta,GA,USA,https://www.facebook.com/groups/245594963505823/,33.7489954,-84.3879824
-Lee Wilson,Chicago,IL,USA,https://www.facebook.com/groups/1089105581424781/,41.8781136,-87.6297982
-Tomasz w Klymiuk,Bellwood,IL,USA,https://www.facebook.com/groups/262404531424946/about/,41.8814197,-87.883117
-Mike Rushton,New England,NH,USA,https://www.facebook.com/groups/200568277867763/,43.9653889,-70.8226541
-Megan Eccleston,Holland,MI,USA,https://www.facebook.com/groups/WestMichiganOSMS/members/,42.7875235,-86.1089301
-Ian Lawson,Detroit,MI,USA,https://www.facebook.com/groups/212531906646951/,42.331427,-83.0457538
-Rick McGarry,Ann Arbor,MI,USA,https://www.facebook.com/groups/1123320618008506/,42.2808256,-83.7430378
-Lynn Smith,Minneapolis,MN,USA,https://www.facebook.com/groups/opensourcecovid19minnesota,44.977753,-93.2650108
-Laura Heurung,Minneapolis,MN,USA,https://besillyproject.com/,44.977753,-93.2650108
-Genevieve Caffrey,St. Louis,MO,USA,https://www.facebook.com/groups/PPEforSTL/,38.6270025,-90.1994042
-Dr. Kyle Horton,Wilmington,NC,USA,https://www.facebook.com/groups/839398256580219/?ref=share,39.744655,-75.5483909
-Kevin Pineda,Morristown,NJ,USA,https://www.facebook.com/groups/1346728745521375/,40.7967667,-74.4815438
-Daniel Heneghan,Silver City,NM,USA,https://www.facebook.com/FutureForge/,32.770075,-108.280326
-Szu-Han Ho,Albuquerque,NM,USA,https://www.facebook.com/groups/opensourcenm/,35.0843859,-106.650422
-James Wigglesworth,Las Vegas,NV,USA,https://www.facebook.com/groups/204955167478038/?ref=group_header,36.1699412,-115.1398296
-Pat Rapp,Rochester,NY,USA,https://www.facebook.com/groups/325567651744780/,43.1565779,-77.6088465
-Derek Reihe,Buffalo,NY,USA,https://www.facebook.com/groups/2244626375640892/,42.8864468,-78.8783689
-Sophie Barrett-Kahn,New York,NY,USA,https://www.facebook.com/groups/911668742617628/,40.7127753,-74.0059728
-michael dahlquist,albany,NY,USA,https://www.facebook.com/groups/2999997983391774/,42.6525793,-73.7562317
-Rebecca Kassay,Suffolk County,NY,USA,https://www.facebook.com/groups/548432859211336/,40.9848784,-72.6151169
-Jack Mosel,Carmel,NY,USA,https://www.facebook.com/groups/3079064125478034/permalink/3079074798810300/,36.5552386,-121.9232879
-Josh Hildebrand,Ashland,OH,USA,https://www.facebook.com/groups/243610200098329/,42.1945758,-122.7094767
-Connor Weller,Pacific NorthWest,WA,USA,https://www.facebook.com/groups/pnwcovid19relief/,45.053553,-122.9786078
-Aaron Widmer,West Reading,PA,USA,https://www.facebook.com/groups/839771183178373/,40.3337038,-75.9474322
-Andy Triboletti,Lincoln University,PA,USA,https://www.facebook.com/groups/160939661751167/,37.8047835,-122.2695869
-Brad Ulrich,Nashville,TN,USA,https://www.facebook.com/groups/257303991939043/,36.1626638,-86.7816016
-Jon Mai,Houston,TX,USA,https://www.facebook.com/groups/2605584533101366/,29.7604267,-95.3698028
-Robert Rosati,Austin,TX,USA,https://covid-19utresponse.slack.com,30.267153,-97.7430608
-Kate Bimler,Austin,TX,USA,https://www.facebook.com/groups/228266988369105/,30.267153,-97.7430608
-Jake Blend,Burlington,VT,USA,https://www.facebook.com/GeneratorVT/,44.4758825,-73.212072
-Alex Tuck,Underhill,VT,USA,https://www.facebook.com/groups/oscmsnorthernnewengland,44.5258842,-72.9451267
-Robert Williamson,Seatte,WA,USA,https://www.facebook.com/groups/1451755681697150/,47.6062095,-122.3320708
-Natalie Cline,Wheeling,WV,USA,https://www.facebook.com/groups/oscmswv/,40.0639616,-80.7209149
-Geoff Elliott,Fayetteville,WV,USA,https://facebook.com/groups/499748580910978,35.0526641,-78.8783585
+﻿Preparation d equipement COVID-19,Annaba,Annaba,Algeria,https://facebook.com/groups/292767861689459?refid=46&__xts__%5B0%5D=12.%7B%22unit_id_click_type%22%3A%22graph_search_results_item_tapped%22%2C%22click_type%22%3A%22result%22%2C%22module_id%22%3A5%2C%22result_id%22%3A%221146261086%3A293687568264155%22%2C%22session_id%22%3A%22656bd1c3930cdbc089dfb3c9a969907d%22%2C%22module_role%22%3A%22FEED_POSTS%22%2C%22unit_id%22%3A%22browse_rl%3A61fcc360-d3f9-440c-8bd8-e47ac8f28356%22%2C%22browse_result_type%22%3A%22browse_type_story%22%2C%22unit_id_result_id%22%3A293687568264155%2C%22module_result_position%22%3A0%2C%22result_creation_time%22%3A1584728712%7D&__tn__=C,36.9142081,7.7426673
+Darling Downs PPE,Toowoomba,Queensland,Australia,http://www.ddppe.net,-27.5598212,151.9506696
+South Australian Emergency Relief Breathing Apparatus Project (ERBAP),Adelaide,South Australia,Australia,https://bit.ly/2xt2ul5,-34.9284989,138.6007456
+Open Source COVID19 Medical Supplies - Australia,Melbourne,Victoria,Australia,https://www.facebook.com/groups/opensourcecovid19medicalsuppliesaustralia,-37.8136276,144.9630576
+Open-Source COVID-19 Medical Supplies (Australia),Perth,Western Australia,Australia,https://www.facebook.com/groups/OSCMSAustralia,-31.9505269,115.8604572
+Open Source COVID19 Medical Supplies - Southwest West Australia,Bunbury,Western Australia,Australia,https://www.facebook.com/groups/2897671110314005/,-33.3209971,115.6383482
+Open Source COVID19 Medical Supplies - [Brisbane],Brisbane,,Australia,https://www.facebook.com/groups/253290335707166/,-27.4697707,153.0251235
+Makerspace Adelaide Discussion Group,Adelaide,SA,Australia,https://www.facebook.com/groups/MakerspaceAdelaide/,-34.9284989,138.6007456
+Open source covid-19 medical supplies - Bangladesh,Dhaka,Dhaka,Bangladesh,https://www.facebook.com/groups/575565746378027/?ref=bookmarks,23.810332,90.4125181
+Open Source COVID19 Medical Supplies - Cambodia,Phnom Penh,Cambodia,Cambodia,https://www.facebook.com/groups/233198057732982/,11.5563738,104.9282099
+Open Source COVID19 Medical Supplies - Manitoba,Winnipeg,Manitoba,Canada,https://www.facebook.com/groups/539411656778997/,49.895136,-97.1383744
+Northern Ontario PPE for HCP,Thunder Bay,Northern Ontario,Canada,https://www.nosm.ca/our-community/nosm-student-council/nosmsc-covid-19-relief/,48.3951926,-89.2469077
+Open Source Covid19 Medical Supplies - Niagara,Niagara Falls,ON,Canada,https://www.facebook.com/groups/1165642207101377/,43.0895577,-79.0849436
+Open Source Covid19 Medical Supplies - Windsor Ontario,Windsor,ON,Canada,https://www.facebook.com/groups/532782524089902/,42.3149367,-83.0363633
+Montreal COVID19 Medical Supplies,Montreal,Quebec,Canada,https://www.facebook.com/groups/mtlcovid,45.5016889,-73.567256
+Project Northern Lights,Toronto,,Canada,https://www.facebook.com/groups/643061006475805/,43.653226,-79.3831843
+Open Source Covid19 Medical Supplies - Edmonton,Edmonton,,Canada,https://www.facebook.com/groups/702589887175935,53.5461245,-113.4938229
+Open Source COVID19 Medical Supplies - BC,Vancouver,,Canada,https://www.facebook.com/groups/643029166490469/,49.2827291,-123.1207375
+"Open Source COVID19 Medical Supplies Vancouver Area, Canada",Vancouver,,Canada,https://www.facebook.com/groups/OpenSourceCOVID19MedicalSuppliesVancouverCanada/?ref=share,49.2827291,-123.1207375
+Covid-19 Chile Makers,,,Chile,https://www.facebook.com/groups/203485044085363,-35.675147,-71.542969
+Open Source COVID19 Medical Supplies Colombia,Bogota,Cundinamarca,COLOMBIA,https://www.facebook.com/groups/217134749371098/,4.6641455,-74.066193
+JU group whatsapp,Quito,,Ecuador,https://www.sortronic.com,-0.1806532,-78.4678382
+Open source covid-19 medical supplies - egypt,Giza,,Egypt,https://www.facebook.com/groups/701056440634311/,30.0130557,31.2088526
+Open Source COVID19 Medical Supplies Bavaria,Munich,,Germany,https://www.facebook.com/groups/bavarianmakersvsvirus,48.1351253,11.5819805
+Open Source Covid19 Medical Supplies - Crete,Chania,Crete,Greece,https://www.facebook.com/groups/260263501641528/,35.5138298,24.0180367
+Open Source COVID19 Medical Supplies - India,Pune,,India,https://www.facebook.com/groups/618383535679772/,18.5204303,73.8567437
+Open Source- COVID19 Medical Supplies- Bantu Suplai Medis Indonesia,Jakarta,Jakarta,Indonesia,https://web.facebook.com/groups/opensourcesuplaimediscovid19Indonesia,-6.2087634,106.845599
+3D-Print Covid-19,,,Italy,https://www.facebook.com/groups/740678913005488/?hc_location=ufi,41.87194,12.56738
+Open Source COVID19 Medical Supplies (Jordan),Amman,Amman,Jordan,https://www.facebook.com/groups/791579508030353/,31.9539494,35.910635
+Kenya Medical Supplies - Volunteer to combat the spread of Covid-19,Kijabe,Kiambu,Kenya,https://www.facebook.com/groups/1053766855004430,-0.9539662,36.5931948
+Open Source Community Fight Against COVID 19 - Malaysia,Kuala Lumpur,Kuala Lumpur,Malaysia,https://www.facebook.com/MalaysiaAgainstCOVID19,3.139003,101.686855
+COVID - MALI Keneya,Bamako,,Mali,https://www.facebook.com/COVID-MALI-K%C3%A8n%C3%A8ya-108795004101113,12.6392316,-8.0028892
+Open Source COVID19 Medical Supplies - Malta,Pieta,Pieta,Malta,https://www.facebook.com/groups/848743115622714,35.8934116,14.4941679
+Open Source COVID 19 CDMX y Area Metropolitana,Atizapan,CDMX,Mexico,https://www.facebook.com/groups/572751163333580/,19.3023157,-99.136804
+COVID19 Suministros medicos de codigo abierto MxSaltillo,Saltillo,Coahuila,Mexico,https://www.facebook.com/groups/904816899977270,25.4383234,-100.973678
+Open Source Covid-19 Hidalgo Dispositivos Medicos,Pachuca,Hidalgo,Mexico,https://www.facebook.com/groups/261009291557679/,20.1010608,-98.7591311
+Open Source Covid19 Medical Supplies - Peru,Lima,Lima,Peru,https://www.facebook.com/groups/covid19.medicalsupplies.peru/,-12.0463731,-77.042754
+Open Source COVID19 Medical Supplies - Philippines,Quezon City,Metro Manila,Philippines,https://www.facebook.com/groups/670533490416349,14.6760413,121.0437003
+Movimento Maker - Portugal,Guarda,Guarda,Portugal,https://www.facebook.com/groups/MovimentoMakerPortugal/,40.5308408,-7.2221421
+,Singapore,,Singapore,http://www.facebook.com/updatedlater,1.352083,103.819836
+Open Source COVID19 Medical Supplies Slovenia,Ljubljana,Slovenija,Slovenija,https://www.facebook.com/groups/222293602311750/?epa=SEARCH_BOX,46.0569465,14.5057515
+Open Source Covid19 Medical Supplies - South Africa,Johannesburg,Gauteng,South Africa,https://www.facebook.com/pg/Open-Source-Covid19-Medical-Supplies-South-Africa-111072100540653/about,-26.2041028,28.0473051
+Open Source COVID19 Medical Supplies - Cape Town,Cape Town,,South Africa,https://www.facebook.com/groups/1506916682821523/,-33.9248685,18.4240553
+Open Source COVID19 Espana,Renedo de Pielagos,Cantabria,Spain,https://www.facebook.com/groups/645916392868610/,43.3534526,-3.9500105
+Open Source COVID-19 Medical Supplies - Sri Lanka,Kandy,Central,Sri Lanka,https://www.facebook.com/groups/2557969661139503/,7.2905715,80.6337262
+Open Source COVID19 Medical Supplies (Sweden),Stockholm,Stockholm,Sweden,https://www.facebook.com/groups/2603458516578489,59.3293235,18.0685808
+Open-Source COVID19 Medical Supplies-Taiwan,Taipei,Taiwan,Taiwan,https://www.facebook.com/groups/opensourcecovid19medicalsuppliestaiwan,25.0329694,121.5654177
+Open Source COVID19 Djerba Medical Supplies,Djerba,Djerba,Tunisia,https://www.facebook.com/groups/OSCDMS/,33.8075978,10.8451467
+Open Source COVID19 Medical Supplies - Tunis,Ben arous,Tunis,Tunisia,https://www.facebook.com/groups/310642989942318,36.8064948,10.1815316
+3D Printing Network Tunisia - COVID19,Tunis,,Tunisia,https://www.facebook.com/groups/497735587589305/,36.8064948,10.1815316
+COVID-19 NHS Equipment Fab Network â€” Oxfordshire,Oxford,Oxfordshire,UK,https://www.facebook.com/groups/642102189685379/?ref=share,51.7520209,-1.2577263
+Open Source COVID 19 medical supplies (UK),Birmingham,,UK,https://www.facebook.com/groups/1092378847793991/about/,52.486243,-1.890401
+Maker Hub,Kyiv,Kyiv,Ukraine,https://www.facebook.com/MakerHub.org/,50.4501,30.5234
+Open Source COVID-19 Medical Supplies UA,Ucraina,Ucraina,Ukraine,https://www.facebook.com/groups/1121284048224247/,48.379433,31.1655799
+Co-innovacion UTEC,La Coronilla,,URUGUAY,https://docs.google.com/forms/u/0/d/e/1FAIpQLSdgYInS7ii_6JqNp3EtOosvtRlu74BUTlRLPz7fvcXq7NjtZA/formResponse,-33.889896,-53.5256956
+Anchorage Maker Space,Anchorage,AK,USA,https://www.facebook.com/AnchorageMakerSpace/,61.2180556,-149.9002778
+Open Source COVID19 Medical Supplies - Arizona,Phoenix,AZ,USA,https://www.facebook.com/groups/1927730457352134/?ref=share,33.4483771,-112.0740373
+Operation PPE Tucson,Tucson,AZ,USA,https://www.operation-ppe.com/,32.2226066,-110.9747108
+,BOULDER CREEK,CA,USA,https://www.facebook.com/groups/203199657410175/,37.1260578,-122.1221869
+Bay Area Medical Faceshield Emergency Production,San Francisco,CA,USA,https://www.facebook.com/groups/1129956960692640/members/,37.7749295,-122.4194155
+Fixit Clinic,Berkeley,CA,USA,https://www.facebook.com/FixitClinic/,37.8715226,-122.273042
+Open Source COVID19 Medical Supplies - Santa Cruz,Santa Cruz,CA,USA,https://www.facebook.com/groups/200512584578188/,36.9741171,-122.0307963
+Open Source COVID-19 Medical Supplies - SF Bay Area,Oakland,CA,USA,https://www.facebook.com/groups/2540696382871789/,37.8043514,-122.2711639
+Make Me PPE Bay Area,San Francisco,CA,USA,https://www.facebook.com/groups/1388421828011071/,37.7749295,-122.4194155
+San Diego Community Volunteers for Coronavirus Response,San Diego,CA,USA,https://www.facebook.com/groups/204071867533109/213292363277726/?comment_id=213450329928596&notif_id=1585422315613097&notif_t=group_comment_reply,32.715738,-117.1610838
+Open Source COVID19 Medical Supples - Los Angeles,Los Angeles,CA,USA,https://www.facebook.com/groups/2619428255045479/?hc_location=ufi,34.0522342,-118.2436849
+"Orange County, CA Open Source/3D Printed Medical Supplies",Orange County,CA,USA,https://www.facebook.com/groups/214898566420716/,33.7174708,-117.8311428
+LA Film Mask Makers,Los Angeles,CA,Usa,https://www.lafilmmaskmakers.com/,34.0522342,-118.2436849
+"Open Source COVID-19 Medical Supplies Los Angeles, CA",Los Angeles,CA,USA,https://www.facebook.com/groups/622045148527252/,34.0522342,-118.2436849
+Open Source COVID19 Medical Supplies - Elk Grove/Sacramento,Sacramento,CA,USA,https://www.facebook.com/groups/518221618838835/,38.5815719,-121.4943996
+Open Source COVID-19 Medical Supplies San Diego,San Diego,CA,USA,https://m.facebook.com/groups/2257979497844254?group_view_referrer=profile_browser,32.715738,-117.1610838
+Make4Covid,Denver,CO,USA,http://www.make4covid.co,39.7392358,-104.990251
+"Open Source COVID19 Medical Supplies - Routt/Eagle Counties, CO",Steamboat Springs,CO,USA,https://www.facebook.com/groups/1309619542556377/,40.4849769,-106.8317158
+Open Source COVID19 Medical Supplies CT,East Hampton,CT,USA,https://www.facebook.com/groups/2560587237528780/,41.5757748,-72.5026249
+MakeHaven Covid-19 Response,New Haven,CT,USA,https://www.makehaven.org/covid19,41.308274,-72.9278835
+Open Source COVID19 Medical Supplies - DC Metro,Washington,DC,USA,https://www.facebook.com/groups/DC.COVID19/,38.9071923,-77.0368707
+MD/DC/NoVA Open Source COVID-19 Medical Supplies,,DC,USA,https://www.facebook.com/groups/DMVCOVID19/about/,38.9071923,-77.0368707
+Open Source Covid19 Medical Supplies - Delaware,Wilmington,DE,USA,https://www.facebook.com/groups/1557343877775118,39.744655,-75.5483909
+Open Source COVID19 Medical Supplies - Sarasota/Manatee,Bradenton,FL,USA,https://www.facebook.com/groups/815629955592342,27.4989278,-82.5748194
+"Open Source COVID19 Medical Supplies - Brevard County, Florida","Cocoa Beach, FL",FL,USA,https://www.facebook.com/groups/opensourcecovid19medicalsuppliesbrevardcofl/,28.3200067,-80.6075513
+Open Source COVID19 Medical Supplies - Central Florida,Orlando,FL,USA,https://www.facebook.com/groups/246225126423066,28.5383355,-81.3792365
+South Florida Open Source COVID-19 Medical Supplies,Hollywood,FL,USA,https://www.facebook.com/groups/249510606071584/,26.0112014,-80.1494901
+Open Source COVID19 Medical Supplies - Volusia County,Ormond Beach,FL,USA,https://www.facebook.com/groups/624029178440771/?ref=bookmarks,29.2858129,-81.0558894
+Atlanta Beats Covid & The Maker Station,Marietta Atlanta,GA,USA,https://www.AtlantaBeatsCovid.org,33.952602,-84.5499327
+Open Source COVID19 Medical Supplies - Georgia,Atlanta,GA,USA,https://www.facebook.com/groups/245594963505823/,33.7489954,-84.3879824
+Open Source COVID-19 Medical Supplies CSRA,Augusta,GA,USA,https://www.facebook.com/groups/771231023406071/?source=unknown,33.4734978,-82.0105148
+Open Source Covid-19 Medical Supplies CSRA,Augusta,GA,USA,https://www.facebook.com/groups/CSRACovid19/,33.4734978,-82.0105148
+Maui Makers COVID 19 Response Team,Makawao,HI,USA,https://join.slack.com/t/mauimakerscov-8g28186/shared_invite/zt-cx834i9f-HS5FKB93FZ797ZktjtxcaQ,20.8569444,-156.3130556
+Open Source COVID19 Medical Supplies - Hawaii,,HI,USA,https://www.facebook.com/groups/1105449656457415,38.9949446,-77.0316578
+Maui Covid PPE,,HI,USA,https://www.facebook.com/groups/588660241728657,38.9949446,-77.0316578
+Palouse Open Source COVID19 Medical Supplies,Moscow,Idaho,USA,https://m.facebook.com/groups/671761570255909,46.7323875,-117.000165
+Open Source COVID19 Medical Supplies - Illinois,Chicago,IL,USA,https://www.facebook.com/groups/1089105581424781/,41.8781136,-87.6297982
+Open Source COVID19 Medical Supplies - Chicago,Bellwood,IL,USA,https://www.facebook.com/groups/262404531424946/about/,41.8814197,-87.883117
+Open Source COVID19 Medical Supplies- Central KY,Lexington,KY,USA,https://www.facebook.com/groups/1814120672056019/,38.0405837,-84.5037164
+New Orleans Open Source COVID19 Medical Supplies,New Orleans,LA,USA,https://www.facebook.com/groups/2551440988458154/,29.9510658,-90.0715323
+New England COVID-19 Maker Outreach,New England,,USA,https://www.facebook.com/groups/200568277867763/,43.9653889,-70.8226541
+West Michigan OSMS,Holland,MI,USA,https://www.facebook.com/groups/WestMichiganOSMS/members/,42.7875235,-86.1089301
+Greater Detroit Area OSMS - COVID -19 Open Source Medical Supplies,Detroit,MI,USA,https://www.facebook.com/groups/212531906646951/,42.331427,-83.0457538
+Operation Face Shield Ann Arbor,Ann Arbor,MI,USA,https://www.facebook.com/groups/1123320618008506/,42.2808256,-83.7430378
+"Open Source Covid-19 Medical Supplies - Springfield, Missouri",Springfield,MI,USA,https://www.facebook.com/OSCMSspringfield,42.3264298,-85.2391614
+Open Source COVID19 Medical Supplies of Southeast Michigan & Northwest Ohio,,OH,USA,https://www.facebook.com/groups/1256668104532416/members/,40.4172871,-82.907123
+Open Source COVID19 Medical Supplies - Minnesota,Minneapolis,MN,USA,https://www.facebook.com/groups/opensourcecovid19minnesota,44.977753,-93.2650108
+,Minneapolis,MN,USA,https://besillyproject.com/,44.977753,-93.2650108
+PPE for STL,St. Louis,MO,USA,https://www.facebook.com/groups/PPEforSTL/,38.6270025,-90.1994042
+"Open Source COVID19 Medical Supplies - Raleigh, NC",Wake Forest,NC,USA,https://www.facebook.com/groups/252614462564795/,35.9798734,-78.5097228
+COVID19 Medical Supplies - Cape Fear,Wilmington,NC,USA,https://www.facebook.com/groups/839398256580219/?ref=share,34.2103894,-77.8868117
+COVID19 Medical Supplies- North Jersey Group,Morristown,NJ,USA,https://www.facebook.com/groups/1346728745521375/,40.7967667,-74.4815438
+Open Source COVID-19 Medical Supplies - Southern New Jersey,Lacey Township,NJ,USA,https://www.facebook.com/groups/2635447553249685/,39.8726184,-74.2951444
+Future Forge,Silver City,NM,USA,https://www.facebook.com/FutureForge/,32.770075,-108.280326
+Open Source COVID19 Medical Supplies New Mexico,Albuquerque,NM,USA,https://www.facebook.com/groups/opensourcenm/,35.0843859,-106.650422
+Open Source COVID19 Medical Supplies - Las Vegas,Las Vegas,NV,USA,https://www.facebook.com/groups/204955167478038/?ref=group_header,36.1699412,-115.1398296
+"ROC Open Source COVID19 Medical Supplies - Rochester, NY",Rochester,NY,USA,https://www.facebook.com/groups/325567651744780/,43.1565779,-77.6088465
+Open Source COVID19 Medical Supplies - Western NY,Buffalo,NY,USA,https://www.facebook.com/groups/2244626375640892/,42.8864468,-78.8783689
+Open Source COVID19 Medical Supplies - New York,New York,NY,USA,https://www.facebook.com/groups/911668742617628/,40.7127753,-74.0059728
+COVID19 Medical Supplies - AlbanyNY,albany,NY,USA,https://www.facebook.com/groups/2999997983391774/,42.6525793,-73.7562317
+Suffolk County Creators of COVID19 Medical Supplies,Suffolk County,NY,USA,https://www.facebook.com/groups/548432859211336/,40.9848784,-72.6151169
+Covid19 - Medical PPE Supplies #Putnam #NYS,Carmel,NY,USA,https://www.facebook.com/groups/3079064125478034/permalink/3079074798810300/,41.4300937,-73.6801297
+Open Source Covid19 Medical Supplies - Central Ohio,Delaware,OH,USA,https://www.facebook.com/groups/covid19centralOH/,40.2986724,-83.067965
+"Open Source Covid19 Medical Supplies - Ashland, Ohio",Ashland,OH,USA,https://www.facebook.com/groups/243610200098329/,40.8686675,-82.3182178
+Open Source COVID19 Medical Supplies - Central Ohio,Columbus,OH,USA,https://www.facebook.com/groups/OSCMSCentralOhio/,39.9611755,-82.9987942
+Open Source COVID19 Medical Supplies - Central Ohio,Columbus,Ohio,USA,https://www.facebook.com/groups/OSCMSCentralOhio/,39.9611755,-82.9987942
+Oklahoma Open Source COVID19 Medical Supplies,Oklahoma City,OK,USA,https://www.facebook.com/groups/OpensourceCOVID19Oklahoma/members/,35.4675602,-97.5164276
+Open Source COVID19 Medical Supplies-Berks County Makers and Volunteers,West Reading,PA,USA,https://www.facebook.com/groups/839771183178373/,40.3337038,-75.9474322
+Cover Aid PHL,Philadelphia,PA,USA,https://www.facebook.com/CoverAidPHL/,39.9525839,-75.1652215
+Sew Face Masks Philadelphia,Philadelphia,PA,USA,https://www.facebook.com/groups/SewAgainstCovidPHL/?ref=group_header,39.9525839,-75.1652215
+Open Source Covid19 Medical Supplies Philadelphia,Philadelphia,PA,USA,https://www.facebook.com/groups/1072074406493979/,39.9525839,-75.1652215
+Open Source COVID19 Medical Supplies Chester County,Lincoln University,PA,USA,https://www.facebook.com/groups/160939661751167/,39.8086987,-75.9270918
+Open Source COVID19 Medical Supplies and Support - Nashville and Middle TN,Nashville TN,TN,USA,https://www.facebook.com/groups/257303991939043/,36.1626638,-86.7816016
+Open Source COVID19 Medical Supplies - Greater Houston,Houston,TX,USA,https://www.facebook.com/groups/2605584533101366/,29.7604267,-95.3698028
+UT Covid-19 Response,Austin,TX,USA,https://covid-19utresponse.slack.com,30.267153,-97.7430608
+Open Source COVID19 Medical Supplies - Texas,Austin,TX,USA,https://www.facebook.com/groups/228266988369105/,30.267153,-97.7430608
+Open Source Covid19 Medical Supplies - Hampton Roads,Suffolk,VA,USA,https://www.facebook.com/groups/260598148276324/,36.7282054,-76.5835621
+Generator Makerspace,Burlington,VT,USA,https://www.facebook.com/GeneratorVT/,44.4758825,-73.212072
+"Open Source COVID19 Medical Supplies - Northern New England (VT, NH)",Underhill,VT,USA,https://www.facebook.com/groups/oscmsnorthernnewengland,44.5258842,-72.9451267
+COVID19 Seattle Mask Force,Seattle,WA,USA,https://www.facebook.com/groups/1451755681697150/,47.6062095,-122.3320708
+Stop the Bug,Seatte,WA,USA,https://www.facebook.com/groups/stopthebug/,47.6062095,-122.3320708
+Open Source COVID19 Medical Supplies - Washington State,Olympia,WA,USA,https://www.facebook.com/groups/2781119911943366/,47.0378741,-122.9006951
+PNW - Open Source COVID19 Medical Supplies,Pacific NorthWest,WA,USA,https://www.facebook.com/groups/pnwcovid19relief/,47.2645452,-122.2501201
+Open Source COVID19 Medical Supplies - Northern West Virginia,Wheeling,WV,USA,https://www.facebook.com/groups/oscmswv/,40.0639616,-80.7209149
+Open Source COVID19 Medical Supplies - Southern WV,Fayetteville,WV,USA,https://facebook.com/groups/499748580910978,38.0528884,-81.1039911
+Open Source COVID19 Medical Supplies (Tampa Bay),Tampa,FL,USA,https://www.facebook.com/groups/246229396558102/,27.950575,-82.4571776
+Open Source COVID19 Medical Supplies - Yemen,,,Yemen,https://www.facebook.com/groups/1207445162923063/,15.552727,48.516388
